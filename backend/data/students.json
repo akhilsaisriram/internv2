@@ -1,0 +1,72 @@
+[
+  {
+    "_id": "1733472428829",
+    "username": "av@gmail.com",
+    "password": "$2b$10$BHW2chBubCRAwCCRk1tg4OrCdHX03ACJTDyjcyJNPiHz3Xs1Sqa7O",
+    "profilePhoto": "D:\\internnodev1\\internnode\\uploads\\profilePhoto-1733472428626-668055791.jpg",
+    "phone": "9876543212",
+    "dob": "12/14/2024",
+    "studentClass": "6c",
+    "name": "a.vaishnavi"
+  },
+  {
+    "_id": "1733472707774",
+    "username": "akhil@gmail.com",
+    "password": "$2b$10$SLx2JB5YlqMnaEnihuELnOS11mfckNGvTppmCZ5ARv1l2rp8pXiLu",
+    "profilePhoto": "D:\\internnodev1\\internnode\\uploads\\profilePhoto-1733472707397-511647237.jpg",
+    "phone": "9154005678",
+    "dob": "2024-12-06",
+    "studentClass": "6c",
+    "name": "akhil"
+  },
+  {
+    "_id": "1733473788527",
+    "username": "krishna@gmail.com",
+    "password": "$2b$10$Ynlt0xqlWgX/78x6U7sGWOi96RyR4wHnY104UiT9Hw791xvu.8eLi",
+    "profilePhoto": "D:\\internnodev1\\internnode\\uploads\\profilePhoto-1733474187005-856902970.jpg",
+    "phone": "9876543212",
+    "dob": "12/14/2024",
+    "studentClass": "6c",
+    "name": "karishna"
+  },
+  {
+    "_id": "1733474212316",
+    "username": "tony@gmail.com",
+    "password": "$2b$10$OFb93tiXeHbz69EcZaYjKeLRS.J1tNHYrYjRwIo8SaCoTXj0CULzi",
+    "profilePhoto": "D:\\internnodev1\\internnode\\uploads\\profilePhoto-1733474212003-319731512.jpg",
+    "phone": "9876543212",
+    "dob": "12/14/2024",
+    "studentClass": "6c",
+    "name": "tony"
+  },
+  {
+    "_id": "1733474222280",
+    "username": "mark@gmail.com",
+    "password": "$2b$10$LeeEkSH7L4mD18a19BRBgeYbNQrVnLT3GxoF8DQWjwxY0m70SGG7G",
+    "profilePhoto": "D:\\internnodev1\\internnode\\uploads\\profilePhoto-1733474221970-225399905.jpg",
+    "phone": "9876543212",
+    "dob": "12/14/2024",
+    "studentClass": "6c",
+    "name": "mark"
+  },
+  {
+    "_id": "1733474234863",
+    "username": "strange@gmail.com",
+    "password": "$2b$10$FFc85zP0bK3mb/r.NLfszu00iCrd1VQa6Okowg6zgXRBTeVU/YLB2",
+    "profilePhoto": "D:\\internnodev1\\internnode\\uploads\\profilePhoto-1733474255387-167219027.jpg",
+    "phone": "9876543212",
+    "dob": "12/14/2024",
+    "studentClass": "6c",
+    "name": "strange"
+  },
+  {
+    "_id": "1733479309198",
+    "username": "mark42@gmail.com",
+    "password": "$2b$10$ZHYZdYHFywiJCoBLl42Jxuf.xiNktb0PEn1kUGzdL7syT0b/NGOya",
+    "profilePhoto": "D:\\internnodev1\\internnode\\uploads\\profilePhoto-1733479441481-911377360.jpg",
+    "phone": "9876543212",
+    "dob": "12/14/2024",
+    "studentClass": "6c",
+    "name": "mark42"
+  }
+]
